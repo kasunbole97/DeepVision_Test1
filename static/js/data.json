@@ -1,0 +1,1 @@
+[{"name": "GitDownloads", "type": "directory", "children": [{"name": ".github", "type": "directory", "children": [{"name": ".keep", "type": "file"}]}, {"name": ".gitignore", "type": "file"}, {"name": "Arima_Model_Completed.ipynb", "type": "file"}, {"name": "publisher.py", "type": "file"}, {"name": "README.md", "type": "file"}, {"name": "subscriber.py", "type": "file"}]}]
